@@ -1,4 +1,7 @@
-# gemini_chatbot.py
+#This is a chatbot project created using python and Streamlit. I have used Gemini Flash 1.5 pro model. The chatbot responds to dynamic user questions and answers them in concise and crisp manner. 
+#gemini_chatbot.py
+
+
 import google.generativeai as genai
 import requests  # Gemini API will be accessed via HTTP requests
 import streamlit as st
